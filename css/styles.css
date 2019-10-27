@@ -130,7 +130,7 @@ p {
     text-align: center;
   }
 
-  html {
+  html .nav-link, #features, #services, #specials, #about, #footer{
     font-size: 24px;
   }
 

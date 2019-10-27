@@ -130,8 +130,8 @@ p {
     text-align: center;
   }
 
-  .nav-link, #features, #services, #specials, #about, #footer{
-    font-size: 40px;
+  .nav-link, h2, h4, #services, .services-text, #specials, #about, #footer{
+    font-size: 48px;
   }
 
   #title .nav-item {
